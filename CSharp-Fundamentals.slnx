@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Primitive Types and Expressions/" />
+  <Folder Name="/Primitive Types and Expressions/Operators/">
+    <Project Path="Primitive Types and Expressions/Operators/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Primitive Types and Expressions/TypeConversion/">
+    <Project Path="Primitive Types and Expressions/TypeConversion/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Primitive Types and Expressions/Variables-And-Constants/">
+    <Project Path="Primitive Types and Expressions/Variables-And-Constants/Example/Example.csproj" />
+  </Folder>
+</Solution>
