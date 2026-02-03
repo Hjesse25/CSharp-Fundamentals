@@ -1,4 +1,11 @@
 <Solution>
+  <Folder Name="/Arrays and Lists/" />
+  <Folder Name="/Arrays and Lists/Arrays/">
+    <Project Path="Arrays and Lists/Arrays/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Arrays and Lists/Lists/">
+    <Project Path="Arrays and Lists/Lists/Example/Example.csproj" />
+  </Folder>
   <Folder Name="/Control Flow/" />
   <Folder Name="/Control Flow/Conditionals/">
     <Project Path="Control Flow/Conditionals/Example/Example.csproj" />
