@@ -49,4 +49,11 @@
   <Folder Name="/Primitive Types and Expressions/Variables-And-Constants/">
     <Project Path="Primitive Types and Expressions/Variables-And-Constants/Example/Example.csproj" />
   </Folder>
+  <Folder Name="/Working with Dates/" />
+  <Folder Name="/Working with Dates/DateTime/">
+    <Project Path="Working with Dates/DateTime/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Dates/TimeSpan/">
+    <Project Path="Working with Dates/TimeSpan/Example/Example.csproj" />
+  </Folder>
 </Solution>
