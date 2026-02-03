@@ -1,4 +1,21 @@
 <Solution>
+  <Folder Name="/Control Flow/" />
+  <Folder Name="/Control Flow/Conditionals/">
+    <Project Path="Control Flow/Conditionals/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Control Flow/For-Loops/">
+    <Project Path="Control Flow/For-Loops/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Control Flow/Foreach-Loops/">
+    <Project Path="Control Flow/Foreach-Loops/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Control Flow/While-Loops/">
+    <Project Path="Control Flow/While-Loops/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Misc/" />
+  <Folder Name="/Misc/Random-Class/">
+    <Project Path="Misc/Random-Class/Example/Example.csproj" />
+  </Folder>
   <Folder Name="/Non-Primitive Types/" />
   <Folder Name="/Non-Primitive Types/Arrays/">
     <Project Path="Non-Primitive Types/Arrays/Example/Example.csproj" />
