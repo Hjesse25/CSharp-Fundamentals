@@ -1,4 +1,20 @@
 <Solution>
+  <Folder Name="/Non-Primitive Types/" />
+  <Folder Name="/Non-Primitive Types/Arrays/">
+    <Project Path="Non-Primitive Types/Arrays/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Non-Primitive Types/Classes/">
+    <Project Path="Non-Primitive Types/Classes/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Non-Primitive Types/Enums/">
+    <Project Path="Non-Primitive Types/Enums/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Non-Primitive Types/Reference-And-Value-Types/">
+    <Project Path="Non-Primitive Types/Reference-And-Value-Types/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Non-Primitive Types/Strings/">
+    <Project Path="Non-Primitive Types/Strings/Example/Example.csproj" />
+  </Folder>
   <Folder Name="/Primitive Types and Expressions/" />
   <Folder Name="/Primitive Types and Expressions/Operators/">
     <Project Path="Primitive Types and Expressions/Operators/Example/Example.csproj" />
