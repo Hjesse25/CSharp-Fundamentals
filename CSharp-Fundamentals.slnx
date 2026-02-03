@@ -20,6 +20,9 @@
     <Project Path="Control Flow/While-Loops/Example/Example.csproj" />
   </Folder>
   <Folder Name="/Misc/" />
+  <Folder Name="/Misc/Procedural-Programming/">
+    <Project Path="Misc/Procedural-Programming/Example/Example.csproj" />
+  </Folder>
   <Folder Name="/Misc/Random-Class/">
     <Project Path="Misc/Random-Class/Example/Example.csproj" />
   </Folder>
@@ -55,5 +58,15 @@
   </Folder>
   <Folder Name="/Working with Dates/TimeSpan/">
     <Project Path="Working with Dates/TimeSpan/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Text/" />
+  <Folder Name="/Working with Text/String-Builder/">
+    <Project Path="Working with Text/String-Builder/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Text/String/">
+    <Project Path="Working with Text/String/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Text/Summarizing-Text/">
+    <Project Path="Working with Text/Summarizing-Text/Example/Example.csproj" />
   </Folder>
 </Solution>
