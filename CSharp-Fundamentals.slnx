@@ -59,6 +59,16 @@
   <Folder Name="/Working with Dates/TimeSpan/">
     <Project Path="Working with Dates/TimeSpan/Example/Example.csproj" />
   </Folder>
+  <Folder Name="/Working with Files/" />
+  <Folder Name="/Working with Files/Directory/">
+    <Project Path="Working with Files/Directory/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Files/File/">
+    <Project Path="Working with Files/File/Example/Example.csproj" />
+  </Folder>
+  <Folder Name="/Working with Files/Path/">
+    <Project Path="Working with Files/Path/Example/Example.csproj" />
+  </Folder>
   <Folder Name="/Working with Text/" />
   <Folder Name="/Working with Text/String-Builder/">
     <Project Path="Working with Text/String-Builder/Example/Example.csproj" />
